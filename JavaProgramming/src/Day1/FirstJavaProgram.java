@@ -10,7 +10,7 @@ public class FirstJavaProgram
 	 
 	 System.out.println(10+20 + "LPA");
 	 
-	 System.out.println("thank you universe");
+	 System.out.println("thank you universe love u ");
 	}
 	
 }
